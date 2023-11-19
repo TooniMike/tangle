@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475053881127",
+    "project_id": "tangle-457ac",
+    "storage_bucket": "tangle-457ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475053881127:android:4e3a810f2394a0d829db02",
+        "android_client_info": {
+          "package_name": "com.example.tangle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuWswY3L0nwwHYg25latooXY-8yXf5e58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
